@@ -1,0 +1,28 @@
+Customer Churn Analysis Insights
+
+1. Churn Count Chart:
+The majority of customers have not churned, but a significant minority have. This highlights churn as a notable business issue.
+
+2. Churn Percentage Pie Chart:
+About 26.5% of customers have churned, indicating a substantial churn rate that warrants further investigation.
+
+3. Churn by Gender:
+Churn rates are similar across genders, suggesting gender is not a strong predictor of churn.
+
+4. Senior Citizen Churn:
+Senior citizens have a higher churn rate compared to non-senior customers, indicating age group is a relevant factor.
+
+5. Tenure Distribution by Churn:
+Customers with shorter tenure are more likely to churn, while long-term customers tend to stay.
+
+6. MonthlyCharges and TotalCharges by Churn:
+Customers with higher monthly charges are more likely to churn, while total charges are lower for churned customers due to shorter tenure.
+
+7. Contract Type by Churn:
+Month-to-month contract customers have the highest churn rate, while those with longer contracts are less likely to churn.
+
+8. Services by Churn:
+Customers lacking extra services (e.g., OnlineSecurity, TechSupport) have higher churn rates. Fiber optic internet users also churn more than DSL users.
+
+9. Payment Method by Churn:
+Customers using Electronic Check as a payment method are more likely to churn compared to other payment methods.
